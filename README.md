@@ -35,8 +35,7 @@ Este projeto foi criado para praticar:
 
 ---
 
-## 📂 Como Executar o Projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/EloaGuilgel/portal-de-noticias.git
+🔗 Acesse o projeto online:  
+https://eloaguilgel.github.io/portal-de-noticias/
+
